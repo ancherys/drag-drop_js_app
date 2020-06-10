@@ -42,7 +42,7 @@ function createList() {
 <span class="number">${index + 1}</span>
 <div class="draggable" draggable="true"> 
         <p class="car-name">${car}</p>
-        <i class="fa fa-paper-plane"></i>
+        <i class="fa fa-arrows-alt"></i>
 </div>
 `;
 			// Push into listItems array
